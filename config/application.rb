@@ -11,6 +11,12 @@ module PersanApp
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.1
 
+    #para gumana na walang lintik na coffee rails 
+    # config.generators do |g|
+    #   g.javascript_engine :js
+    #   end
+    # end
+
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.

@@ -26,3 +26,5 @@ Maintenance of Application is using Active Admin Gem for CMS
 
 - username: **admin@example.com**
 - password: **password**
+
+### initail push bernie

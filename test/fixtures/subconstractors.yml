@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  comp_name: MyString
+  subcon_name: MyString
+  subcon_person: MyString
+  subcon_contactno: MyString
+
+two:
+  comp_name: MyString
+  subcon_name: MyString
+  subcon_person: MyString
+  subcon_contactno: MyString

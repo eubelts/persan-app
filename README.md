@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Persan Application using Ruby On Rails
+Ruby Version: 2.4.1
+Rails Version: 2.5.1
+Maintenance of Application is using Active Admin Gem for CMS
 
-Things you may want to cover:
+### Installation:
+1. Clone this repository
+2. run `bundle install`
+3. run `rails db:create` (Make sure mysql server is running)
+4. run `rails db:migrate`
+5. run `rails db:seed`
 
-* Ruby version
+### Run Development Server:
 
-* System dependencies
+- run `rails server` Open **localhost:3000**
 
-* Configuration
 
-* Database creation
+### To access Maintenance CMS:
 
-* Database initialization
+- Open ***localhost:3000/admin***
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+### Initial Login credentials: 
 
-* Deployment instructions
+- username: **admin@example.com**
+- password: **password**
 
-* ...
+### initail push bernie
